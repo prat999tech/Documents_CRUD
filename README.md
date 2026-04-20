@@ -60,7 +60,7 @@ src/main/java/com/pratik/employeedocs/
 
 ## Setup & Run
 
-**Prerequisites**: Java 17+, Maven 3.6+
+**Prerequisites**: Java 26, Maven 3.6+
 
 ```bash
 # Clone and run
